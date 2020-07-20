@@ -1074,7 +1074,7 @@ strong {
     float: right;
 	width: 121px;
 	height: 225px;
-    background-position-x: calc(50%);
+    background-position-x: 99pxs;
 }
 
 .ds4 .bumper {
