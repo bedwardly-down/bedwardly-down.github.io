@@ -23,9 +23,8 @@
 }
 
 .ds4 .trigger {
-    width: 121px;
-	height: 225px;
-	transform: scale(2, 2);
+    width: 500px;
+	height: 500px;
     background: url(ps4-assets/triggers.svgz);
     opacity: 0;
 }
