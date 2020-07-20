@@ -25,6 +25,7 @@
 .ds4 .trigger {
     width: 121px;
 	height: 225px;
+	transform: scale(2, 2);
     background: url(ps4-assets/triggers.svgz);
     opacity: 0;
 }
@@ -35,7 +36,6 @@
 
 .ds4 .trigger.right {
     float: right;
-	transform: scale(2, 2);
     background-position-x: 99px;
 }
 
