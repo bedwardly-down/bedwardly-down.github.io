@@ -1072,6 +1072,7 @@ strong {
 
 .ds4 .trigger.right {
     float: right;
+	transform: scale(2, 2);
 	width: 121px;
 	height: 225px;
     background-position-x: 99px;
