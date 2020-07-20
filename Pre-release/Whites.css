@@ -1,0 +1,14 @@
+/*
+   ---------------------------
+   created with Free texture packer v0.6.6
+   http://free-tex-packer.com
+   ---------------------------
+*/
+.White-Assets/sticks { display:inline-block;overflow:hidden;background:url(Whites.png) no-repeat -0px -0px;width:418px;height:418px; }
+.White-Assets/face { display:inline-block;overflow:hidden;background:url(Whites.png) no-repeat -418px -0px;width:279px;height:279px; }
+.White-Assets/Circle { display:inline-block;overflow:hidden;background:url(Whites.png) no-repeat -0px -418px;width:180px;height:180px;margin-left:48px;margin-top:0px }
+.White-Assets/Triangle { display:inline-block;overflow:hidden;background:url(Whites.png) no-repeat -180px -418px;width:166px;height:149px;margin-left:161px;margin-top:1px }
+.White-Assets/Cross { display:inline-block;overflow:hidden;background:url(Whites.png) no-repeat -346px -418px;width:141px;height:143px;margin-left:0px;margin-top:27px }
+.White-Assets/Square { display:inline-block;overflow:hidden;background:url(Whites.png) no-repeat -487px -279px;width:142px;height:142px;margin-left:116px;margin-top:21px }
+.White-Assets/Select { display:inline-block;overflow:hidden;background:url(Whites.png) no-repeat -487px -421px;width:75px;height:41px;margin-left:0px;margin-top:7px }
+.White-Assets/Start { display:inline-block;overflow:hidden;background:url(Whites.png) no-repeat -562px -421px;width:70px;height:41px;margin-left:11px;margin-top:7px }
