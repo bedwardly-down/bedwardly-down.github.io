@@ -150,7 +150,7 @@
 .ds4 .stick {
     position: absolute;
     background: url(sticksmod.png);
-	background-size: 418px 418px;
+	background-size: contain;
 	/* Controls the total area the sticks take up */
 }
 
