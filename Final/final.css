@@ -2,9 +2,8 @@
 .controller.ds4 {
     background: url(basemod.png);
 	background-size: 3840px 2160px;
-    /*height: 1080px;
-    width: 1920px;*/
-	transform: scale(0.5, 0.5);
+    height: 1080px;
+    width: 1920px;
     /*    margin-left: -403px;
         margin-top: -280px;*/
 }
