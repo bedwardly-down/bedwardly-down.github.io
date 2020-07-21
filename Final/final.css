@@ -150,13 +150,12 @@
 .ds4 .stick {
     position: absolute;
     background: url(sticksmod.png);
+	background-size: 418px 418px;
 	/* Controls the total area the sticks take up */
 }
 
 .ds4 .stick.pressed.left {
     background-position-x: -128px;
-	/* remove if doesn't work */
-	background-size: 300px 300px;
 }
 
 .ds4 .stick.pressed.right {
