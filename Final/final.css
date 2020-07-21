@@ -155,6 +155,8 @@
 
 .ds4 .stick.pressed.left {
     background-position-x: -128px;
+	/* remove if doesn't work */
+	background-size: 300px 300px;
 }
 
 .ds4 .stick.pressed.right {
