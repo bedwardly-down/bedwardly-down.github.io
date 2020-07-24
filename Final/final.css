@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(basemod.png);
+    background: url(basemod.svg);
 	background-size: 100%;
     height: 1080px;
     width: 1920px;
@@ -235,7 +235,7 @@
 
 /*BEGIN PS4 White Controller Styling*/
 .controller.ds4.white {
-    background-image: url(basemod.png);
+    background-image: url(basemod.svg);
 }
 
 .ds4.white.disconnected {
