@@ -76,7 +76,7 @@
 	position: absolute;
     background: url(optionsmod.png);
 	height: 30px;
-	top: 895px; /* 890px */
+	top: 893px; /* 890px */
     opacity: 1;
 }
 
@@ -87,13 +87,13 @@
 
 .ds4 .back {
 	background-position-y: -5px;
-	left: 520px;
+	left: 525px;
 	width: 75px;
 }
 
 .ds4 .start {
     background-position: 80px -5px;
-	left: 875px;
+	left: 885px;
 	width: 75px;
 }
 
