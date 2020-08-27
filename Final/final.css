@@ -103,7 +103,7 @@
     height: 171px;
     top: 900px;
     left: 1735px;
-	opacity: 0;
+	opacity: 1;
 }
 
 .ds4 .button {
@@ -185,7 +185,7 @@
     height: 150px;
     top: 919px;
     left: 5px;
-	opacity: 0;
+	opacity: 1;
 }
 
 .ds4 .face {
